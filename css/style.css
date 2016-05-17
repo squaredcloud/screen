@@ -14,7 +14,9 @@ body {
 .glitch {
   background: #252926;
   color: #c3ef8f;
-  font-family: 'VT323', ;
+  font-family: 'VT323';
+  font-size: 26px;
+  letter-spacing: 2px;
   /*font-family: Monaco, "Courier New", Courier, monospace;*/
   -webkit-animation: crt 5ms infinite;
           animation: crt 5ms infinite;
