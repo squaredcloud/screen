@@ -5,34 +5,34 @@
 
   MESSAGES.push({
     delay: 0,
-    text: "Incoming transmission..."
+    text: "> Incoming transmission..."
   });
 
   MESSAGES.push({
     delay: 1200,
-    text: "You don't talk to anybody."
+    text: "> You don't talk to anybody."
   });
 
   MESSAGES.push({
     delay: 2200,
-    text: "You don't interact with anybody."
+    text: "> You don't interact with anybody."
   });
 
   MESSAGES.push({
     delay: 3600,
-    text: "Your whole sense of reality is, pretty warped..."
+    text: "> Your whole sense of reality is, pretty warped..."
   });
 
   MESSAGES.push({
     delay: 5200,
-    text: "Does it bother you that we're not real?"
+    text: "> Does it bother you that we're not real?"
   });
 
-  $container = $("#container");
+  $container = $(".container");
 
-  $message = $("#message");
+  $message = $(".message");
 
-  $animate = $("#animate");
+  $animate = $(".animate");
 
   $paragraph = null;
 
