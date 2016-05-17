@@ -17,7 +17,6 @@ body {
   font-family: 'VT323';
   font-size: 26px;
   letter-spacing: 2px;
-  /*font-family: Monaco, "Courier New", Courier, monospace;*/
   -webkit-animation: crt 5ms infinite;
           animation: crt 5ms infinite;
   text-shadow: 0 0 1px #c3ef8f, 1px 1px 1px blue, -1px -1px 1px red;
