@@ -11,7 +11,12 @@ body {
   background: rgba(195, 239, 143, 0.5);
 }
 
+.ghost {
+  opacity: 0.25;
+}
+
 .glitch {
+  opacity: 0.25;
   background: #252926;
   color: #c3ef8f;
   font-family: 'VT323';
